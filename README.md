@@ -1,1 +1,1 @@
-# Code samples by Russell J. Holman, Jr.
+# Developed by Russell J. Holman, Jr.
