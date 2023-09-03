@@ -15,7 +15,7 @@ const logs = [
     { user: 3, action: "B" },
     { user: 3, action: "C" },
 ];
-/** find users with actions A-B-C */
+/** find users with actions A-B-C **/
 
 let userArray = [];
 let userActionStringArray = []
